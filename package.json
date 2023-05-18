@@ -1,0 +1,16 @@
+{
+  "name": "react-native-speech-iflytek",
+  "version": "1.0.4",
+  "description": "Speech module based on iflytekSpeech for react native",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react-native",
+    "speech"
+  ],
+  "author": "zphhhhh",
+  "license": "MIT",
+  "homepage": "https://github.com/zphhhhh/react-native-speech-iflytek#readme"
+}
